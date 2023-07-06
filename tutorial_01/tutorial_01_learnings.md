@@ -11,4 +11,4 @@
 
 5. {} inside a math expression makes it appear in the same line
 
-6. addan additional $(so $$) before and after expressions to make them appear in a new line
+6. add an additional $ (so $$) before and after expressions to make them appear in a new line
